@@ -1,5 +1,0 @@
-# temp
-
->! Spoiler text
-
-CHanged
